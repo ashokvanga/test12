@@ -1,2 +1,2 @@
 # test12
-Test rep
+Test repository
